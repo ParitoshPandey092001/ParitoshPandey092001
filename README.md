@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Working on: catastrophic forgetting in LLMs during continual learning  
+- 🔭 Working on: Catastrophic Forgetting in LLMs during Continual Learning  
 - 🧠 Research areas: retrieval pipelines, reasoning systems, robustness  
 - 📄 Publications: COLM 2026 (under review), ICCL 2025  
 - 🎯 Goal: PhD in NLP and ML  
